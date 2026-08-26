@@ -1,6 +1,6 @@
 image:
-  repository: placeholder
-  tag: latest
+  repository: 619329232037.dkr.ecr.us-east-1.amazonaws.com/order-service
+  tag: 6f2a1683c709fa9e72e5e58419ea9d5094e05029
 
 replicaCount: 1
 
